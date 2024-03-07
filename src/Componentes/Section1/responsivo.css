@@ -14,7 +14,7 @@
     }
 
     .section1 .container .paragrafos p {
-        font-size: 45px;
+        font-size: var(--tamanhoDoTextoParagrafoParaCelular);
 
     }
 
@@ -28,22 +28,22 @@
     }
 
     .section1 .container .paragrafos .icones svg {
-        width: 40px;
+        width: var(--tamanhoDoIconeCelular);
 
     }
 
     .section1 .container .paragrafos .icones .email {
-        width: 60px;
-
-    }
-
-    .section1 .container .paragrafos .icones .linkedin {
         width: 40px;
 
     }
 
+    .section1 .container .paragrafos .icones .linkedin {
+        width: var(--tamanhoDoIconeCelular);
+
+    }
+
     .section1 .container .paragrafos .icones .youtube {
-        width: 55px;
+        width: 35px;
 
     }
 
