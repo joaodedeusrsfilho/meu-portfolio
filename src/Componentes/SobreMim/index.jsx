@@ -16,7 +16,7 @@ const SectionSobreMim = () => {
 
                     <img src="./imagens/perfilLinkedin.png" alt="foto_perfil_github" />
 
-                    <p className='paragrafo'>Sempre gostei da área da tecnologia e após me tornar bacharel em ciência da computação pela FAESF/MA, onde durante o período de formação fiquei fascinado pelo desenvolvimento web e suas possibilidades.
+                    <p className='paragrafo'>Sempre gostei da área da tecnologia por estar sempre em constante evolução e aperfeiçoamento, após ingressar na faculdade de ciências da computação e conhecer o mundo do desenvolvimento web percebi que essa é a área que quero trabalhar, em busca disso estou diariamente me aperfeiçoando por meio das plataformas de ensino online: Alura, RocketSeat, DIO, fóruns, etc. meus hobbies: estudar desenvolvimento web e nas horas vagas: filmes, serie, exercícios físicos.  
                     </p>
                 </div>
 
