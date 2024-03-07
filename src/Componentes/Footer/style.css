@@ -1,0 +1,29 @@
+@import url(../VariaveisCss/variaveisCss.css);
+
+.sectionFooter{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: var(--corDoFundoDoMenu);
+    height: 60px;
+}
+
+.footer .sectionFooter .icones{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    font-size: 35px;
+    color: rgb(103, 167, 8);
+    gap: 20px;
+
+}
+
+.footer .sectionFooter .icones svg{
+    color: rgb(103, 167, 8);
+    
+}
+
+.footer .sectionFooter .copyRight{
+    font-size: 20px;
+    color: var(--corDaFonteFooter);
+}

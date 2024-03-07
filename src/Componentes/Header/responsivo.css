@@ -1,0 +1,68 @@
+@media (max-width: 768px) {
+    .principal {
+        background-color: #1C1A1A;
+        width: 100vw;
+        z-index: 1;
+        box-shadow: 5px -5px -5px greenyellow;
+    
+    }
+
+    .navBar {
+        padding: 1.5rem 4rem;
+        display: flex;
+        align-items: center;
+        width: 100vw;
+        position: fixed;
+    }
+
+    .navList {
+        display: none;
+    }
+
+    .iconeMenuMobile {
+        display: flex;
+    }
+
+    .menuMobile {
+        background-color: #24252a;
+        padding-top: 80px;
+    }
+    
+    .menuMobile a{
+        text-decoration: none;
+    }
+
+    .menuMobile ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        padding-bottom: 1rem;
+        width: 100vw;
+
+    }
+
+    .menuMobile .navItem {
+        padding-top: 1.2rem;
+        color: white;
+
+    }
+
+    .menuMobile .navItem a {
+        color: white;
+    }
+
+    .displayBlock {
+        display: block;
+    }
+
+    .icone{
+        background-color: chartreuse;
+        
+    }
+
+    .botao{
+        background-color: chartreuse;
+    }
+
+}

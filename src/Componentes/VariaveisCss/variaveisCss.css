@@ -1,0 +1,31 @@
+:root{
+    --distanciaDoTopo: 20px;
+
+    --tamanhoDoTextoTitulo: 35px;
+    --tamanhoDoIcone: 35px; 
+    --tamanhoDoTextoParagrafo: 20px;
+    
+
+    --corDoFundoDoMenu: #313131;
+    --corDoFundoDoFooter: #313131;
+    --corDeFundoDoSection1: #121212;
+    --corDeFundoSobreMim: #121212;
+    --corDeFundoFormacao: #121212;
+    --corDeFundoHardSkills: #121212;
+    --corDeFundoProjetos: #121212;
+    
+    --corDaFonteDoHeader: #fff;
+    --corDaFonteDoTitulo: #fff;
+    --corDaFonteDoParagrafo: #fff;
+    --corDaFonteFooter: #fff;
+    
+    --corDoIcone: rgb(110, 179, 8);
+    --corDoIcone: rgb(110, 179, 8);
+    
+
+    /*valores para recursividade*/    
+    --tamanhoDaImagemParaCelularWidth: 200px;
+    --tamanhoDaImagemParaCelularHeight: 200px;
+
+    --tamanhoDoTextoParagrafoParaCelular: 20px
+}

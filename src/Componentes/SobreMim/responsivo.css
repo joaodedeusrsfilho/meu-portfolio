@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+    .sectionSobreMim .sobreMimDescricao{
+        display: flex;        
+        flex-direction: column;
+    }
+    
+    .sectionSobreMim .sobreMimDescricao p{
+        display: flex;
+        width: 100%;
+        padding: 0px 100px;
+        font-size: var(--tamanhoDoTextoParagrafoParaCelular);
+    }
+}

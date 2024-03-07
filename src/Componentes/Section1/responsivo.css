@@ -1,0 +1,55 @@
+@media (max-width: 768px) {
+
+    .section1 .container {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+        padding-top: 100px;
+
+    }
+
+    .section1 .container .paragrafos {
+        width: 300px;
+
+    }
+
+    .section1 .container .paragrafos p {
+        font-size: 45px;
+
+    }
+
+    .section1 .container .paragrafos .efeitoDigitacao {
+        font-size: 20px;
+        width: 290px;
+        display: flex;
+        align-items: center;
+        padding-left: 29px;
+
+    }
+
+    .section1 .container .paragrafos .icones svg {
+        width: 40px;
+
+    }
+
+    .section1 .container .paragrafos .icones .email {
+        width: 60px;
+
+    }
+
+    .section1 .container .paragrafos .icones .linkedin {
+        width: 40px;
+
+    }
+
+    .section1 .container .paragrafos .icones .youtube {
+        width: 55px;
+
+    }
+
+    .section1 .container .imagem img {
+        width: var(--tamanhoDaImagemParaCelularWidth);
+        height: var(--tamanhoDaImagemParaCelularHeight);
+    }
+
+}

@@ -1,0 +1,40 @@
+@media (max-width: 768px) {
+
+    .containerInterno {
+        padding-top: 3px;
+        
+    }
+
+    .containerInterno .titulo h2 {
+        font-size: 35px;
+
+    }
+
+    .containerInterno .titulo svg {
+        font-size: 55px;
+    }
+
+.containerInterno .descricao{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+
+}
+
+    .containerInterno .descricao img {
+        width: var(--tamanhoDaImagemParaCelularWidth);
+        height: var(--tamanhoDaImagemParaCelularHeight);
+
+    }
+
+    .containerInterno .textoDescricao{
+        padding-top: 100px;
+    }
+
+    .containerInterno .descricao p{
+        color: white;
+        font-size: 20px;
+    }
+
+
+}
