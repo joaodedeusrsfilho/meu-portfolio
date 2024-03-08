@@ -6,12 +6,17 @@
         
         
     }
+
+    .sectionSobreMim .containerSobreMim .sobreMim h1{
+        font-size: var(--tamanhoDoTextoTituloCelular);
+    }
     
     .sectionSobreMim .containerSobreMim .sobreMimDescricao p{
         display: flex;
         width: 100%;
-        padding: 0px 100px;
+        padding: 100px 40px;
         font-size: var(--tamanhoDoTextoParagrafoParaCelular);
+        padding-top: 100px;
     }
 
     .sectionSobreMim .containerSobreMim .sobreMimDescricao{
@@ -19,6 +24,13 @@
         display: flex;
         flex-direction: column;
         padding-top: 100px;
+                
+    }
+
+    .sectionSobreMim .containerSobreMim .sobreMimDescricao img{
+        width: var(--tamanhoDaImagemParaCelularWidth);
+
+        height: var(--tamanhoDaImagemParaCelularHeight);
                 
     }
 }
