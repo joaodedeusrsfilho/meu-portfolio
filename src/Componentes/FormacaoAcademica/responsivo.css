@@ -1,17 +1,12 @@
 @media (max-width: 768px) {
 
-    .containerInterno {
-        padding-top: 3px;
-        
-    }
-
-    .containerInterno .titulo h2 {
-        font-size: 35px;
+   .containerInterno .titulo h1 {
+        font-size: var(--tamanhoDoTextoTituloCelular);
 
     }
 
     .containerInterno .titulo svg {
-        font-size: 55px;
+        font-size: var(--tamanhoDoIconeCelular);
     }
 
 .containerInterno .descricao{
@@ -33,7 +28,7 @@
 
     .containerInterno .descricao p{
         color: white;
-        font-size: 20px;
+        font-size: var(--tamanhoDoTextoParagrafoParaCelular);
     }
 
 

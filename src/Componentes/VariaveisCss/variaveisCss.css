@@ -28,7 +28,7 @@
     /*valores para recursividade*/    
     --tamanhoDaImagemParaCelularWidth: 200px;
     --tamanhoDaImagemParaCelularHeight: 200px;
-    --tamanhoDoTextoParagrafoParaCelular: 25px;
+    --tamanhoDoTextoParagrafoParaCelular: 15px;
     --tamanhoDoIconeCelular: 25px; 
-    --tamanhoDoTextoTituloCelular: 25px;
+    --tamanhoDoTextoTituloCelular: 20px;
 }
