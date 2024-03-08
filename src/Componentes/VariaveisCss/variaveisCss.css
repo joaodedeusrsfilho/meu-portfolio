@@ -18,9 +18,11 @@
     --corDaFonteDoTitulo: #fff;
     --corDaFonteDoParagrafo: #fff;
     --corDaFonteFooter: #fff;
+
+    --corDaBordaDaImagem: rgb(110, 179, 8);
     
     --corDoIcone: rgb(110, 179, 8);
-    --corDoIcone: rgb(110, 179, 8);
+    
     
 
     /*valores para recursividade*/    

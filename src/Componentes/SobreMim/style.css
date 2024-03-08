@@ -49,7 +49,7 @@
     border-radius: 50%;
     width: var(--tamanhoDaImagemParaCelularWidth);
     height: var(--tamanhoDaImagemParaCelularHigth);
-    border: solid rgb(110, 179, 8);
+    border: solid var(--corDaBordaDaImagem);
     animation: subirDescer 2s linear infinite
 }
 
