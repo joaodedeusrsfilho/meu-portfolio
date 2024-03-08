@@ -1,6 +1,6 @@
 @media (max-width: 768px) {
     .principal {
-        background-color: #1C1A1A;
+        background-color: var(--corDoFundoDoHeader);
         width: 100vw;
         z-index: 1;
         box-shadow: 5px -5px -5px greenyellow;
