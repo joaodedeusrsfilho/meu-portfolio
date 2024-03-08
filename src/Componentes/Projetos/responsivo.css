@@ -1,6 +1,6 @@
 @media (max-width: 768px) {
 
-    .sectionPrincipal{
+    .sectionProjetos{
         display: flex;
         justify-content: center;
         padding-top: 3px;
@@ -9,13 +9,13 @@
         
     }
     
-    .sectionPrincipal .container .projeto{
+    .sectionProjetos .container .projeto{
         h2{
             font-size: 35px;
         }
     }
 
-    .sectionPrincipal .container .projeto svg{
+    .sectionProjetos .container .projeto svg{
         font-size: 55px;
     }
 
@@ -29,6 +29,11 @@
         gap: 100px;
         background-color: #121212;
     }
+
+    .primeiraDiv p{
+        font-size: var(--tamanhoDoTextoParagrafoParaCelular);
+    }
+
     .segundaDiv{
         display: flex;
         flex-direction: column;
@@ -39,6 +44,11 @@
         gap: 50px;
         background-color: #121212;
     }
+
+    .segundaDiv p{
+        font-size: var(--tamanhoDoTextoParagrafoParaCelular);
+    }
+
     .terceiraDiv{
         display: flex;
         flex-direction: column;
@@ -47,5 +57,9 @@
         width: 100%;
         gap: 50px;
         background-color: #121212;
+    }
+
+    .terceiraDiv p{
+        font-size: var(--tamanhoDoTextoParagrafoParaCelular);
     }
 }
