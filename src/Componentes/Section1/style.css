@@ -72,7 +72,7 @@
     font-size: 35px;
 }
 
-.imagem img{
+.container .imagem img{
     border-radius: 50%;
     border: solid var(--corDaBordaDaImagem);
     width: 300px;

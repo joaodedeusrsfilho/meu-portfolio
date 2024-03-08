@@ -5,10 +5,9 @@
     --tamanhoDoIcone: 35px; 
     --tamanhoDoTextoParagrafo: 20px;
     
-
     --corDoFundoDoMenu: #313131;
     --corDoFundoDoHeader: #313131;
-    --corDoFundoDoFooter: #313131;
+    --corDoFundoDoFooter:  rgb(41, 66, 3);
     --corDeFundoDoSection1: #121212;
     --corDeFundoSobreMim: #121212;
     --corDeFundoFormacao: #121212;
@@ -32,4 +31,5 @@
     --tamanhoDoTextoParagrafoParaCelular: 17px;
     --tamanhoDoIconeCelular: 25px; 
     --tamanhoDoTextoTituloCelular: 20px;
+    ----corDoFundoDoFooterCelular: #313131;
 }

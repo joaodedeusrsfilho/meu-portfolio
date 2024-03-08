@@ -47,8 +47,8 @@
 
 .sectionSobreMim .sobreMimDescricao img {
     border-radius: 50%;
-    width: var(--tamanhoDaImagemParaCelularWidth);
-    height: var(--tamanhoDaImagemParaCelularHigth);
+    width: 300px;
+    height: 300px;
     border: solid var(--corDaBordaDaImagem);
     animation: subirDescer 2s linear infinite
 }
