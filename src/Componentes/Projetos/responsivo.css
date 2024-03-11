@@ -22,16 +22,33 @@
     .primeiraDiv{
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        
         align-items: center;
         width: 100%;
-        padding-bottom: 100px;
-        gap: 100px;
+            
         background-color: #121212;
     }
 
     .primeiraDiv p{
         font-size: var(--tamanhoDoTextoParagrafoParaCelular);
+    }
+
+    .primeiraDiv1_1{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 450px;
+        justify-content: center;
+    }
+
+    .primeiraDiv1_2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 450px;
+        justify-content: center;
     }
 
     .segundaDiv{
@@ -49,6 +66,24 @@
         font-size: var(--tamanhoDoTextoParagrafoParaCelular);
     }
 
+    .segundaDiv1_1{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 450px;
+        justify-content: center;
+    }
+
+    .segundaDiv1_2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 450px;
+        justify-content: center;
+    }
+
     .terceiraDiv{
         display: flex;
         flex-direction: column;
@@ -62,4 +97,23 @@
     .terceiraDiv p{
         font-size: var(--tamanhoDoTextoParagrafoParaCelular);
     }
+
+    .terceiraDiv1_1{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 450px;
+        justify-content: center;
+    }
+
+    .terceiraDiv1_2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 450px;
+    }
+
 }
