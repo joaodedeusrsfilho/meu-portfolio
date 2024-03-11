@@ -47,22 +47,28 @@
     .primeiraDiv1_1 {
         background-color: rgb(126, 138, 37);
         border-radius: 20px;
-        padding: 2px 0px;
+        padding: 10px 0px;
         width: 25%;
         height: 450px;
-        width: 320px;
+        
+        
+        
+        
     }
 
     .primeiraDiv1_1 p {
-        padding: 0px 10px;
+        padding: 0px 0px 0px 15px;
+        display: flex;
+        
     }
 
     .primeiraDiv1_2 {
         background-color: rgb(126, 138, 37);
         border-radius: 20px;
-        padding: 0px 10px;
+        padding: 10px 10px;
         width: 25%;
-        width: 320px;
+        
+        
     }
 
     .primeiraDiv1 p {
@@ -87,7 +93,7 @@
         width: 300px;
         margin-right: 5px;
         font-size: var(--tamanhoDoTextoParagrafo);
-        padding: 0px 10px;
+        
     }
 
     .segundaDiv img {
@@ -100,10 +106,10 @@
     .segundaDiv1_1 {
         background-color: rgb(126, 138, 37);
         border-radius: 20px;
-        padding: 2px 0px;
         width: 25%;
         height: 450px;
-        width: 320px;
+        padding: 10px 0px 0px 8px;
+        
     }
 
     .segundaDiv1_1 p {
@@ -114,9 +120,8 @@
     .segundaDiv1_2 {
         background-color: rgb(126, 138, 37);
         border-radius: 20px;
-        padding: 2px 0px;
         width: 25%;
-        width: 320px;
+        padding: 10px 0px 0px 10px;
     }
 
     .segundaDiv1_2 p {
@@ -141,7 +146,7 @@
         width: 300px;
         margin-right: 5px;
         font-size: var(--tamanhoDoParagrafo);
-        padding: 0px 10px;
+        padding: 0px 0px 0px 10px;
 
     }
 
@@ -156,16 +161,16 @@
         height: 450px;
         background-color: rgb(126, 138, 37);
         border-radius: 20px;
-        padding: 2px 0px;
+        padding: 10px 0px 0px 3px;
         width: 25%;
-        width: 320px;
+        
     }
 
     .terceiraDiv1_2 {
         height: 450px;
         background-color: rgb(126, 138, 37);
         border-radius: 20px;
-        padding: 2px 0px;
+        padding: 10px 0px 0px 0px;
         width: 25%;
-        width: 320px;
+        
     }
