@@ -33,9 +33,9 @@ const Section1 = () => {
                             <IoLogoYoutube className='youtube' />
                         </a>
 
-                        <a href="https://instagram.com/kenmasters.dev" target='_blank'><FaInstagram /></a>
+                        <a href="https://instagram.com/kenmastersdev" target='_blank'><FaInstagram /></a>
 
-                        <a href="https://www.tiktok.com/@kenmasters.dev" target='_blank'><FaTiktok /></a>
+                        <a href="https://www.tiktok.com/@kenmastersdev" target='_blank'><FaTiktok /></a>
 
                         <a href="mailto:joaodedeusrsfilho@gmail.com">
                             <MdEmail className='email' />
