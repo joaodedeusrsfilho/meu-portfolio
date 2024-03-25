@@ -10,6 +10,14 @@ const Projetos = () => {
                     <h1><IoConstruct /> Projetos <IoConstruct /></h1>
                 </div>
                 <div className="primeiraDiv">
+                    <div className="primeiraDiv1">
+                        <a href="https://github.com/joaodedeusrsfilho/projetoorgano" target='_blank'>
+                            <img src="./imagens/projetos/hamburgueria.png" alt="projetoSpotify" />
+                        </a>
+                        <p>
+                            Projeto cardapio digital para negocios locais, facilitando o atendimento ao cliente, onde após escolher os produtos o mesmo já pode enviar a mensagem com os produtos salvos via whatapp
+                        </p>
+                    </div>
                     <div className="primeiraDiv1_1">
                         <a href="https://github.com/joaodedeusrsfilho/projetoorgano" target='_blank'>
 
