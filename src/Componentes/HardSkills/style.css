@@ -28,22 +28,27 @@
         display: flex;
         justify-content: center;
         gap: 20px;
+        
 
     }
 
     .div1_1 {
-        background-color: rgb(126, 138, 37);
+        background-color: rgb(215, 217, 205);
         border-radius: 20px;
+        width: 20%;
 
     }
 
     .div1_1 p {
         color: black;
+        
     }
 
     .div1_2 {
-        background-color: rgb(126, 138, 37);
+        background-color: rgb(215, 217, 205);
         border-radius: 20px;
+        width: 20%;
+        
     }
 
     .div1 img {
@@ -71,8 +76,9 @@
     }
 
     .div2_1 {
-        background-color: rgb(126, 138, 37);
+        background-color: rgb(215, 217, 205);
         border-radius: 20px;
+        width: 20%;
 
     }
 
@@ -97,8 +103,9 @@
     }
 
     .div2_2 {
-        background-color: rgb(126, 138, 37);
+        background-color: rgb(215, 217, 205);
         border-radius: 20px;
+        width: 20%;
 
     }
 
