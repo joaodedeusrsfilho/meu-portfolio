@@ -40,17 +40,19 @@
     .primeiraDiv img {
         width: 180px;
         height: 200px;
-        
+        margin-top: 10px;
         margin-right: 5px;
     }
 
     .primeiraDiv1_1 {
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
-        padding: 10px 0px;
         width: 20%;
-        height: 450px;
-        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+            
         
         
         
@@ -65,9 +67,17 @@
     .primeiraDiv1_2 {
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
-        padding: 10px 0px;
         width: 20%;
-        height: 450px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .primeiraDiv1_2 img {
+        width: 180px;
+        height: 200px;
+        
         
     }
 
@@ -99,16 +109,17 @@
     .segundaDiv img {
         width: 180px;
         height: 200px;
-        border: solid rgb(110, 179, 8);
         margin-right: 5px;
+        margin-top: 10px;
     }
 
     .segundaDiv1_1 {
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
-        padding: 10px 0px;
         width: 20%;
-        height: 450px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         
     }
 
@@ -120,9 +131,10 @@
     .segundaDiv1_2 {
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
-        padding: 10px 0px;
         width: 20%;
-        height: 450px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .segundaDiv1_2 p {
@@ -154,30 +166,28 @@
     .terceiraDiv img {
         width: 180px;
         height: 200px;
-        border: solid rgb(110, 179, 8);
         margin-right: 5px;
+        margin-top: 10px;
     }
 
     .terceiraDiv1_1 {
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
-        padding: 10px 0px;
         width: 20%;
-        height: 450px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
         
     }
 
     .terceiraDiv1_2 {
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
-        padding: 10px 0px;
         width: 20%;
-        height: 450px;
         display: flex;
         flex-direction: column;
-        
         align-items: center;
-        
     }
 
     
