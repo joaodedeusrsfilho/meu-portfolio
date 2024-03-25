@@ -11,7 +11,7 @@ const Projetos = () => {
                 </div>
                 <div className="primeiraDiv">
                     <div className="primeiraDiv1">
-                        <a href="https://github.com/joaodedeusrsfilho/projetoorgano" target='_blank'>
+                        <a href="https://hamburgueria-sable-nu.vercel.app/" target='_blank'>
                             <img src="./imagens/projetos/hamburgueria.png" alt="projetoSpotify" />
                         </a>
                         <p>
