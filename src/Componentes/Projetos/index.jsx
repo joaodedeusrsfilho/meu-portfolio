@@ -21,7 +21,7 @@ const Projetos = () => {
                         </p>
                     </div>
                     <div className="primeiraDiv1_1">
-                        <a href="https://github.com/joaodedeusrsfilho/projetoorgano" target='_blank'>
+                        <a href="https://hamburgueria-sable-nu.vercel.app/" target='_blank'>
 
                             <img src="./imagens/projetos/organo.png" alt="projetoSpotify" />
                         </a>
