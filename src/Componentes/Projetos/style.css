@@ -55,6 +55,11 @@
         
     }
 
+    .primeiraDiv1_0 p{
+        padding: 10px;
+    }
+
+
     .primeiraDiv1 {
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
@@ -81,7 +86,7 @@
     }
 
     .primeiraDiv1_1 p {
-        padding: 0px 0px 0px 10px;
+        padding: 10px;
         display: flex;
 
     }
@@ -102,8 +107,8 @@
 
     }
 
-    .primeiraDiv1 p {
-        padding: 0px 10px;
+    .primeiraDiv1_2 p {
+        padding: 10px;
         color: #000;
 
     }
@@ -199,7 +204,10 @@
         flex-direction: column;
         align-items: center;
 
+    }
 
+    .terceiraDiv1_1 p{
+        padding: 10px;
     }
 
     .terceiraDiv1_2 {
@@ -209,4 +217,8 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    .terceiraDiv1_2 p{
+        padding: 10px;
     }

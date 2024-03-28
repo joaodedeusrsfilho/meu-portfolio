@@ -34,16 +34,16 @@
     }
 
     .primeiraDiv1_0 {
-        background-color: rgb(215, 217, 205);
-        border-radius: 20px;
-        width: 20%;
+        width: 100%;
         display: flex;
         flex-direction: column;
-        justify-content: center;
         align-items: center;
-        padding-bottom: 47px;
+        height: 450px;
+        justify-content: center;
         
     }
+
+   
 
     .primeiraDiv1_1{
         width: 100%;
