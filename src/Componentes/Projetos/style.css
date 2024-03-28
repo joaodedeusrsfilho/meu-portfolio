@@ -22,7 +22,7 @@
     .primeiraDiv {
         display: flex;
         justify-content: center;
-        width: 100%;
+        width: 100vw;
         padding: 100px 0px 50px 0px;
         gap: 20px;
 
@@ -48,6 +48,7 @@
         background-color: rgb(215, 217, 205);
         border-radius: 20px;
         width: 20%;
+        display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
