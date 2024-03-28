@@ -34,7 +34,6 @@
         width: 300px;
         font-size: var(--tamanhoDoTextoParagrafo);
         margin-right: 5px;
-
     }
 
     .primeiraDiv img {
@@ -42,6 +41,18 @@
         height: 200px;
         margin-top: 10px;
         margin-right: 5px;
+    }
+
+    .primeiraDiv1_0 {
+        background-color: rgb(215, 217, 205);
+        border-radius: 20px;
+        width: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 47px;
+        
     }
 
     .primeiraDiv1 {
@@ -52,10 +63,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
     }
-
-    
 
     .primeiraDiv1_1 {
         background-color: rgb(215, 217, 205);
@@ -65,14 +73,11 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
     }
 
     .primeiraDiv1 p {
-        padding: 0px 0px 10px;
+        padding: 0px 0px 0px;
         display: flex;
-
-
     }
 
     .primeiraDiv1_1 p {
@@ -94,7 +99,6 @@
     .primeiraDiv1_2 img {
         width: 180px;
         height: 200px;
-
 
     }
 

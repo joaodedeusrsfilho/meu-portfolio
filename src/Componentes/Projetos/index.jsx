@@ -11,7 +11,7 @@ const Projetos = () => {
                 </div>
                 <div className="primeiraDiv">
                     
-                    <div className="primeiraDiv1_1">
+                    <div className="primeiraDiv1_0">
                         <a href="https://hamburgueria-sable-nu.vercel.app/" target='_blank'>
 
                             <img src="./imagens/projetos/hamburgueria.png" alt="projetoSpotify"/>
