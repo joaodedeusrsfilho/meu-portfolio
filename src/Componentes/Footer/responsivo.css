@@ -2,7 +2,7 @@
 /*Responsivo*/
 @media (max-width: 768px) {
     .footer{
-        width: 100%;
+        width: 100vw;
         display: flex;
         justify-content: center;
         align-items: center;
