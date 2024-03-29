@@ -38,7 +38,7 @@
     border-radius: 50%;
     width: 300px;
     height: 300px;
-    border: solid rgb(110, 179, 8);
+    border: solid var(--corDaBordaDaImagem);
 }
 
 .descricao p{
