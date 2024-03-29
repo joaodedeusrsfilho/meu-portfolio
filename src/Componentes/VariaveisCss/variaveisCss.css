@@ -6,22 +6,22 @@
     --tamanhoDoTextoParagrafo: 20px;
     
     --corDoFundoDoMenu: #313131;
-    --corDoFundoDoHeader: #313131;
-    --corDoFundoDoFooter:  rgb(41, 66, 3);
-    --corDeFundoDoSection1: #121212;
-    --corDeFundoSobreMim: #121212;
-    --corDeFundoFormacao: #121212;
-    --corDeFundoHardSkills: #121212;
-    --corDeFundoProjetos: #121212;
+    --corDoFundoDoHeader: #1717ec;
+    --corDoFundoDoFooter: #1717ec;
+    --corDeFundoDoSection1: #c3c3c3;
+    --corDeFundoSobreMim: #c3c3c3;
+    --corDeFundoFormacao: #c3c3c3;
+    --corDeFundoHardSkills: #c3c3c3;
+    --corDeFundoProjetos: #c3c3c3;
     
     --corDaFonteDoHeader: #fff;
-    --corDaFonteDoTitulo: #fff;
-    --corDaFonteDoParagrafo: #fff;
+    --corDaFonteDoTitulo: #1717ec;
+    --corDaFonteDoParagrafo: #000000;
     --corDaFonteFooter: #fff;
 
-    --corDaBordaDaImagem: rgb(110, 179, 8);
+    --corDaBordaDaImagem: #1717ec;
     
-    --corDoIcone: rgb(110, 179, 8);
+    --corDoIcone: #1717ec;
     
     
 
