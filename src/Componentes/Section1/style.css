@@ -17,7 +17,7 @@
     font-size: 40px;
     display: flex;
     flex-direction: column;
-    color: var(--corDaFonteDoTitulo);
+    color: blue;
     
 }
 
@@ -29,7 +29,7 @@
 }
 
 .efeitoDigitacao {
-    border-right: 15px solid rgb(153, 255, 0);
+    border-right: 15px solid rgb(0, 13, 255);
     width: 280px;
     white-space: nowrap;
     /*para não cair para a proxima linha, quando tiver um espaço em branco*/
@@ -61,7 +61,7 @@
 .section1 .icones svg {
     height: 100px;
     font-size: 35px;
-    color: #2AC7E3;
+    color: #2a39e3;
 }
 
 .section1 .icones .email {

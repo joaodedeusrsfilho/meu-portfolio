@@ -20,7 +20,7 @@
 }
 
 .containerSobreMim .sobreMim svg {
-    color: var(--corDoIcone);
+    color: white;
     font-size: var(--tamanhoIcone);
 
 }
