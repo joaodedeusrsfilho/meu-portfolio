@@ -18,13 +18,13 @@ const Footer = () => {
                     <a href='https://linkedin.com/in/joaodedeusrsfilho' target='_blank'>
                         <FaLinkedin />
                     </a>
-                    <a href='https://www.youtube.com/@juniorkenmasters_dev' target='_blank'>
+                    <a href='https://www.youtube.com/@kenmasters_dev' target='_blank'>
                         <IoLogoYoutube className='youtube' />
                     </a>
 
-                    <a href="https://instagram.com/juniorkenmasters_dev" target='_blank'><FaInstagram /></a>
+                    <a href="https://instagram.com/kenmasters_dev" target='_blank'><FaInstagram /></a>
 
-                    <a href="https://www.tiktok.com/@kenmastersdev" target='_blank'><FaTiktok /></a>
+                    <a href="https://www.tiktok.com/@kenmasters_dev" target='_blank'><FaTiktok /></a>
 
                     <a href="mailto:joaodedeusrsfilho@gmail.com">
                         <MdEmail className='email' />
