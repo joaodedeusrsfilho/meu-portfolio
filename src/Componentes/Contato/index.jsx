@@ -7,7 +7,7 @@ const Contato = () => {
             <h2>Entre em contato</h2>
 
 
-            <form action="https://formsubmit.co/tvavira10@gmail.com" method="post">
+            <form action="https://formsubmit.co/joaodedeusrsfilho@gmail.com" method="post">
 
 
                 <input type="text" name="nome" id="nome" placeholder='Digite seu nome' />
