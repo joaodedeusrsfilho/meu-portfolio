@@ -1,0 +1,7 @@
+.containerForm{
+    overflow: hidden;
+}
+
+.containerForm input, textarea{
+    width: 70%;
+}

@@ -13,6 +13,9 @@
 }
 
 .imagem-item{
-width: 100%;
+width: 300px;
 height: 300px;
+object-fit: cover; /*para não quebrar o tamanho da imagem*/
+
 }
+
