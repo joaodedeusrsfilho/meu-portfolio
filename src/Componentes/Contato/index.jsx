@@ -20,7 +20,7 @@ const Contato = () => {
                 <input type="submit" value="Enviar mensagem" className='botaoEnviar' />
                 <input type="reset" value="Limpar campos" className='botaoLimpar' />
 
-                <input type="hidden" name="_captcha" value="false"></input>
+                
                 <input type="hidden" name="_template" value="table"></input>
                 
             </form>
