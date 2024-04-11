@@ -19,3 +19,7 @@ object-fit: cover; /*para não quebrar o tamanho da imagem*/
 
 }
 
+.swiper{
+    width: 600px;
+}
+

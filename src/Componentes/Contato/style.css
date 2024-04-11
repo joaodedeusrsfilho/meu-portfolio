@@ -1,5 +1,5 @@
 .containerForm {
-    background-color: rgb(0, 0, 115);
+    background-color: #121212;
     gap: 10px;
     color: white;
     display: flex;
@@ -29,12 +29,14 @@ input {
     width: 80%;
     font-size: 16pt;
     margin-bottom: 10px;
-
+    border-radius: 10px;
+    
 }
 
 textarea {
     height: 300px;
     width: 80%;
+    border-radius: 10px;
 }
 
 .botao {

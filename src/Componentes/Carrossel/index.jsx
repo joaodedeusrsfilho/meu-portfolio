@@ -23,17 +23,19 @@ import 'swiper/css/navigation'//são as setinhas
 import 'swiper/css/pagination'//são as bolinhas que ficam embaixo da imagem
 import 'swiper/css/scrollbar'
 
+
 const Carrossel = () => {
 
-    const [quantidadeImagem, setQuantidadeImagem ] = useState(2)
-
-    const imagens = [
-        { id: '1', imagem: romario },
+    
+    const imagens = [ //array com 4 objetos
+    { id: '1', imagem: romario },
         { id: '2', imagem: ronaldinho },
         { id: '3', imagem: cr71 },
         { id: '4', imagem: cr72 }
     ]
 
+    const [quantidadeImagem, setQuantidadeImagem ] = useState(2)
+    
     useEffect(() => {
         function handleResize(){
             if(window.innerWidth < 720){
@@ -48,16 +50,17 @@ const Carrossel = () => {
         
         handleResize()
         
-        //quando sair desse componente tem q desmontar o componente
+        //quando sair desse componente e for pra outro ele tem q desmontar este componente para evitar perda de performace no site
         return () => {
             window.removeEventListener('resize', handleResize)
         }
-
+        
     }, [])//[] = array de dependencia
+    
 
     return (
 
-        <div className='containerSlide'>
+        <div className='containerSlide' data-swiper-autoplay = '1000'>
             <h1 className="title">Slider com React JS</h1>
 
             <Swiper
@@ -65,9 +68,10 @@ const Carrossel = () => {
                 pagination
                 navigation//setinhas
                 slidesPerView={quantidadeImagem}//quantidade de imagem em cada slide por meio do useState
-            >
+                >
                 {imagens.map((imagemAtual) => (
-                    <SwiperSlide id={imagemAtual.id}>
+                    <SwiperSlide id={imagemAtual.id} >
+                        
                         <img src={imagemAtual.imagem} alt="Imagem"
                             className='imagem-item' />
 

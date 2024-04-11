@@ -17,7 +17,7 @@
     font-size: 40px;
     display: flex;
     flex-direction: column;
-    color: blue;
+    color: #9eff0d;
     
 }
 
@@ -29,7 +29,7 @@
 }
 
 .efeitoDigitacao {
-    border-right: 15px solid rgb(0, 13, 255);
+    border-right: 15px solid greenyellow;
     width: 280px;
     white-space: nowrap;
     /*para não cair para a proxima linha, quando tiver um espaço em branco*/
@@ -61,7 +61,7 @@
 .section1 .icones svg {
     height: 100px;
     font-size: 35px;
-    color: #2a39e3;
+    color: #9eff0d;
 }
 
 .section1 .icones .email {

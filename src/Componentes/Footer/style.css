@@ -13,13 +13,13 @@
     align-items: center;
     height: 50px;
     font-size: 35px;
-    color: rgb(103, 167, 8);
+    color: #9eff0d;
     gap: 20px;
 
 }
 
 .footer .sectionFooter .icones svg{
-    color: rgb(103, 167, 8);
+    color: #9eff0d;
     
 }
 
