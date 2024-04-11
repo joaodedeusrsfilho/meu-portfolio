@@ -1,5 +1,5 @@
 @import url(../VariaveisCss/variaveisCss.css);
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 
 .containerInterno{
@@ -17,6 +17,7 @@
     font-size: var(--tamanhoDoTextoTitulo);
     color: var(--corDaFonteDoTitulo);
     padding-top: var(--distanciaDoTopo);
+    font-family: 'Roboto';
 }
 
 .sectionFormacao .titulo svg{
@@ -44,4 +45,5 @@
 .descricao p{
     color: white;
     font-size: var(--tamanhoDoTextoParagrafo);
+    font-family: 'Roboto';
 }

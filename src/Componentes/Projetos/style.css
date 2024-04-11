@@ -1,5 +1,5 @@
     @import url(../VariaveisCss/variaveisCss.css);
-
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     .containerProjetos {
         background-color: var(--corDeFundoProjetos);
         padding-top: var(--distanciaDoTopo);
@@ -12,6 +12,7 @@
     .sectionProjetos .containerProjetos .projeto h1 {
         font-size: var(--tamanhoDoTextoTitulo);
         color: var(--corDaFonteDoTitulo);
+        font-family: 'Roboto';
     }
 
     .sectionProjetos .containerProjetos .projeto svg {
