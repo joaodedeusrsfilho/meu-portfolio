@@ -30,6 +30,7 @@
     
     .menuMobile a{
         text-decoration: none;
+        
     }
 
     .menuMobile ul {
@@ -49,7 +50,7 @@
     }
 
     .menuMobile .navItem a {
-        color: white;
+        color: greenyellow;
     }
 
     .displayBlock {
