@@ -41,6 +41,7 @@
 .navList {
     display: flex;
     align-items: center;
+    transition: 0.5s;
 
 }
 
@@ -53,14 +54,22 @@
     list-style: none;
 }
 
+.navList a:hover{
+    text-decoration: underline;
+    
+}
+
 .navList a {
     text-decoration: none;
     color: var(--corDaFonteDoHeader);
     font-weight: bold;
-    font-family: 'Roboto';
-    
+    font-family: 'Roboto';  
     
 }
+
+
+
+
 
 .iconeMenuMobile {
     display: none;
@@ -69,4 +78,5 @@
 .menuMobile {
     display: none;
 }
+
 

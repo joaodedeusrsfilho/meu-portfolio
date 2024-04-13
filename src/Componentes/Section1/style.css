@@ -72,12 +72,17 @@
     display: flex;
     justify-content: space-evenly;
     gap: 20px;
+    transition: 0.9s;
 }
 
 .section1 .icones svg {
     height: 100px;
     font-size: 35px;
     color: #9eff0d;
+}
+
+.section1 .icones a:hover{
+    transform: scale(1.5);
 }
 
 .section1 .icones .email {
