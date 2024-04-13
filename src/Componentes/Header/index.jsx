@@ -4,13 +4,13 @@ import './responsivo.css'
 function mostrarMenuMobile() {
     let menuMobile = document.querySelector('.menuMobile');
     /*toda vez que clicar pela primeira vez no icone mobile, a condição vai iniciar no else, adicionando a classe open, e no proximo clique a condição vai iniciar no if*/
-    if (menuMobile.classList.contains('displayBlock')) {
-        menuMobile.classList.remove('displayBlock');
+    if (menuMobile.classList.contains('exibirMenuMobile')) {
+        menuMobile.classList.remove('exibirMenuMobile');
         document.querySelector('.icone').src = '../imagens/list.svg'
 
 
     } else {
-        menuMobile.classList.add('displayBlock')
+        menuMobile.classList.add('exibirMenuMobile')
         document.querySelector('.icone').src = '../imagens/x.svg'
     }
 }
