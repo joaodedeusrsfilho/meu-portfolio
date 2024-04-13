@@ -14,7 +14,9 @@
   
 
 .container{
-    background-color: var(--corDeFundoDoSection1);
+    background-image: url('../../../public/imagens/programador.png');
+    background-position: center;
+    background-size: cover;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
