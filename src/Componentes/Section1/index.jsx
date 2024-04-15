@@ -21,7 +21,7 @@ const Section1 = () => {
                     <p >João de Deus</p>
                     <p className='efeitoDigitacao' style={{ color: '#00AD6F' }}>Desenvolvedor Front-End</p>
 
-                        <a href="http://localhost:5173/arquivos/curriculo.pdf" download={'curriculo'} type='aplication/pdf'>
+                        <a href="https://drive.google.com/file/d/1HOvAO9qg0T7cx3kTuthmuVG-RJSt3_nx/view?usp=drive_link" download={'curriculo'} type='aplication/pdf'>
                         <button
                             id='curriculo'
                         
