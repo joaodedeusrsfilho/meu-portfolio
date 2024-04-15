@@ -100,6 +100,19 @@
     height: 300px;
 }
 
+.curriculo{
+    padding: 10px 10px;
+    border-radius: 8px;
+    background-color: #9EFF0D;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    border: 0;
+}
+
+.curriculo:hover{
+    transform: scale(1.1);
+}
 
 
 

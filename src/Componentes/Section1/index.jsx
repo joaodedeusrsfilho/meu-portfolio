@@ -19,6 +19,10 @@ const Section1 = () => {
 
                     <p className='efeitoDigitacao' style={{ color: '#00AD6F' }}>Desenvolvedor Front-End</p>
 
+                    <a href="http://localhost:5173/arquivos/curriculo.pdf "ownload="João de Deus - FrontEnd" type='application/pdf'>
+                        <button className='curriculo'>Currículo em PDF</button>
+                    </a>
+
                     <div className='icones'>
 
                         <a href='https://github.com/joaodedeusrsfilho' target='_blank'>
