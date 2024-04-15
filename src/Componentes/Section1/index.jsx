@@ -7,18 +7,29 @@ import { MdEmail } from "react-icons/md";
 import { IoLogoYoutube } from "react-icons/io";
 import { FaTiktok } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
-
+import { useState } from 'react';
 
 const Section1 = () => {
+
+    
+
     return (
         <section className='section1'>
             <div className="container">
                 <div className='paragrafos'>
 
                     <p >João de Deus</p>
+                    <p className='efeitoDigitacao' style={{ color: '#00AD6F' }}>Desenvolvedor Front-End</p>
 
-                   
-
+                        <a href="http://localhost:5173/arquivos/curriculo.pdf" download={'curriculo'} type='aplication/pdf'>
+                        <button
+                            id='curriculo'
+                        
+                        >
+                            Currículo em PDF
+                        </button>
+                        </a>
+                    
                     <div className='icones'>
 
                         <a href='https://github.com/joaodedeusrsfilho' target='_blank'>

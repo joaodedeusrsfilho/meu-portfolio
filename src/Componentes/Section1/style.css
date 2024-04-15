@@ -100,7 +100,7 @@
     height: 300px;
 }
 
-.curriculo{
+#curriculo{
     padding: 10px 10px;
     border-radius: 8px;
     background-color: #9EFF0D;
@@ -110,7 +110,7 @@
     border: 0;
 }
 
-.curriculo:hover{
+#curriculo:hover{
     transform: scale(1.1);
 }
 
