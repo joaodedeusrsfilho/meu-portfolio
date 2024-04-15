@@ -11,17 +11,7 @@ import { useState } from 'react';
 
 const Section1 = () => {
 
-    const downloadUrl = "http://localhost:5173/arquivos/curriculo.pdf"
-
-    const downloadFileAtUrl = (url)=>{
-        const fileName = url.split('/').pop()
-        const aTag = document.createElement('a')
-        aTag.href=url
-        aTag.setAttribute('download', fileName)
-        document.body.appendChild(aTag)
-        aTag.click()
-        aTag.remove()
-    }
+    const downloadUrl = "https://drive.google.com/file/d/1HOvAO9qg0T7cx3kTuthmuVG-RJSt3_nx/view"
 
     return (
         <section className='section1'>
@@ -32,12 +22,9 @@ const Section1 = () => {
                     <p className='efeitoDigitacao' style={{ color: '#00AD6F' }}>Desenvolvedor Front-End</p>
 
                         
-                        <button id='curriculo' onClick={() => {
-                            downloadFileAtUrl(downloadUrl)
-                        }}>
-
-                        
-                        </button>
+                        <a href={downloadUrl}>
+                            <button id='curriculo'>Download Curriculo em PDF</button>
+                        </a>
                         
                     
                     <div className='icones'>
