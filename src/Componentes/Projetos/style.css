@@ -1,6 +1,8 @@
     @import url(../VariaveisCss/variaveisCss.css);
     @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     .containerProjetos {
+        background-image: linear-gradient(to top left,green, #221133);
+        
         
         
         padding-top: var(--distanciaDoTopo);
