@@ -22,7 +22,7 @@ function App() {
       <Header />
       <Section1 />
       <SobreMim />
-      <FormacaoAcademica />
+      
       <HardSkill />
       <Projetos />
       <Contato/>
