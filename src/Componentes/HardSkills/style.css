@@ -7,8 +7,8 @@
         width: 100%;
         height: 100%;
         background-image: linear-gradient(
-            to top left,
-            green, #221133
+            
+            rgb(3, 75, 3), #221133, rgb(3, 75, 3)
         );
 
     }

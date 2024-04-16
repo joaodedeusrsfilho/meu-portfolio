@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .containerForm {
-    background-color: #121212;
+    background-image: linear-gradient(
+        #221133,rgb(3, 75, 3)
+    );
     gap: 10px;
     color: white;
     display: flex;
