@@ -1,5 +1,6 @@
 .containerForm{
     overflow: hidden;
+    margin-top: 10px;
 }
 
 .containerForm input, textarea{
