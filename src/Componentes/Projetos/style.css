@@ -1,7 +1,9 @@
     @import url(../VariaveisCss/variaveisCss.css);
     @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     .containerProjetos {
-        background-color: var(--corDeFundoProjetos);
+        background-image: url('../../../public/imagens/background/projetos.jpg');
+        background-position: left;
+        background-size: cover;
         padding-top: var(--distanciaDoTopo);
         display: flex;
         flex-direction: column;
