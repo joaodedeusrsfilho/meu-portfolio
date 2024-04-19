@@ -58,24 +58,7 @@ const Projetos = () => {
                         </p>
                     </div>
                 </div>
-                <div className="terceiraDiv">
-                    <div className="terceiraDiv1_1">
-                        <a href="https://github.com/joaodedeusrsfilho/analisar_numeros" target='_blank'>
-                            <img src="./imagens/projetos/analisarNumeros.png" alt="projetoSpotify" />
-                        </a>
-                        <p>
-                            Analisando números entre os valores 1 e 100, exibindo o maior valor e menor valor, a Soma e a Media dos números inseridos pelo usuário.
-                        </p>
-                    </div>
-                    <div className="terceiraDiv1_2">
-                        <a href="https://github.com/joaodedeusrsfilho/tabuada" target='_blank'>
-                            <img src="./imagens/projetos/tabuada.png" alt="projetoSpotify" />
-                        </a>
-                        <p>
-                            Uma tabuada, exibindo a criação de elementos em uma section, para exibição dos resultados.
-                        </p>
-                    </div>
-                </div>
+                
             </div>
         </section >
     )
