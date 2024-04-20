@@ -17,7 +17,7 @@ const Projetos = () => {
                             <img src="./imagens/projetos/hamburgueria.png" alt="projetoSpotify"/>
                         </a>
                         <p>
-                        Projeto cardapio digital para negocios locais, facilitando o atendimento ao cliente, onde após escolher os produtos o mesmo já pode enviar a mensagem com os produtos salvos via whatapp
+                        Projeto Flash Burger com API WhatsApp, você é capaz de vender seus produtos seja o seu negócio uma hamburgueria, Pizzaria ou qualquer outro Delivery
                         </p>
                     </div>
                     <div className="primeiraDiv1_1">
