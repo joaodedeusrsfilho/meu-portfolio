@@ -85,7 +85,14 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        align-items: center;
+                
+    }
+
+    .primeiraDiv1_1 img {
+        width: 180px;
+        height: 200px;
+        margin-top: -145px;
+
     }
 
     .primeiraDiv1 p {

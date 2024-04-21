@@ -27,11 +27,7 @@ const Projetos = () => {
                         <p>
                             Clone do Instagram utilizando flexbox e media query.
                         </p>
-
-
-
                     </div>
-
                     <div className="primeiraDiv1_2">
                         <a href="https://github.com/joaodedeusrsfilho/clone-spotify" target='_blank'>
                             <img src="./imagens/projetos/spotify.png" alt="projetoSpotify" />
