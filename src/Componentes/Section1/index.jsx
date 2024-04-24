@@ -21,10 +21,11 @@ const Section1 = () => {
                     <p >João de Deus</p>
                     <p className='efeitoDigitacao' style={{ color: '#00AD6F' }}>Desenvolvedor Front-End</p>
 
-                        
+                        {/* 
                         <a href={downloadUrl}>
                             <button id='curriculo'>Download Curriculo em PDF</button>
                         </a>
+                        */}
                         
                     
                     <div className='icones'>
@@ -54,7 +55,7 @@ const Section1 = () => {
 
                 <div className='imagem'>
                     <div>
-                        <img src="./imagens/perfil.jpg" alt="logo react" />
+                        <img src="./imagens/perfil.jpg" alt="logo react" className='perfil'/>
                     </div>
                 </div>
             </div>

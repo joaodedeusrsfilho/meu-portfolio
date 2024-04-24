@@ -55,6 +55,8 @@
         digitando 5s steps(30) infinite;
 }
 
+
+
 @keyframes cursor {
     50% {
         border-right: transparent;
