@@ -11,7 +11,7 @@ import { useState } from 'react';
 
 const Section1 = () => {
 
-    const downloadUrl = "https://drive.google.com/file/d/1dEoPCKONJsZDlW32Jd37K44qnIrbFEUL/view?usp=sharing"
+    const downloadUrl = "https://drive.google.com/file/d/1Bl5bTqv7XRuyDGl188vh78v9bJYiaaOh/view?usp=sharing"
 
     return (
         <section className='section1'>
@@ -21,11 +21,11 @@ const Section1 = () => {
                     <p >João de Deus</p>
                     <p className='efeitoDigitacao' style={{ color: '#00AD6F' }}>Desenvolvedor Front-End</p>
 
-                        {/* 
+                        
                         <a href={downloadUrl}>
                             <button id='curriculo'>Download Curriculo em PDF</button>
                         </a>
-                        */}
+                        
                         
                     
                     <div className='icones'>
