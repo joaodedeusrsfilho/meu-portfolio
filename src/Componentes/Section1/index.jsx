@@ -11,7 +11,7 @@ import { useState } from 'react';
 
 const Section1 = () => {
 
-    const downloadUrl = "https://drive.google.com/file/d/1Bl5bTqv7XRuyDGl188vh78v9bJYiaaOh/view?usp=sharing"
+    const downloadUrl = "https://drive.google.com/file/d/1cTzEN7cNTVI1s5Elv14pMFU1x3n4pjOH/view?usp=sharing"
 
     return (
         <section className='section1'>
