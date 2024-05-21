@@ -14,7 +14,7 @@ const SectionSobreMim = () => {
 
                 <div className="sobreMimDescricao">
 
-                    <p className='paragrafo'>Sou bacharel em ciências da computação, sempre gostei da área de tecnologia por estar sempre em constante evolução e aperfeiçoamento, após ingressar e conhecer o mundo do desenvolvimento web percebi que essa é a área que desejo atuar.
+                    <p className='paragrafo'>Bacharel em ciências da computação, com as SOFTSKILLS: Princípios éticos, confiança, atitude positiva, motivação, trabalho em equipe, organização, gestão de tempo e comunicação.
                     </p>
                 </div>
 
