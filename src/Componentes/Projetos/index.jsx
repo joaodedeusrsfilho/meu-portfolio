@@ -12,6 +12,15 @@ const Projetos = () => {
                 <div className="primeiraDiv">
 
                     <div className="primeiraDiv1_0">
+                        <a href="https://api-react-axios-seven.vercel.app//" target='_blank'>
+
+                            <img src="./imagens/projetos/api.png" alt="projetoSpotify" />
+                        </a>
+                        <p>
+                        API jsonplaceholder com Axios, clique em New Post dá um inspecionar, clicar em Network escolher a opção Fetch/XHR, envie um POST e clicar em post e verificar o Headers.
+                        </p>
+                    </div>
+                    <div className="primeiraDiv1_0">
                         <a href="https://hamburgueria-sable-nu.vercel.app/" target='_blank'>
 
                             <img src="./imagens/projetos/hamburgueria.png" alt="projetoSpotify" />
@@ -28,14 +37,7 @@ const Projetos = () => {
                             Clone do Instagram utilizando flexbox e media query.
                         </p>
                     </div>
-                    <div className="primeiraDiv1_2">
-                        <a href="https://github.com/joaodedeusrsfilho/clone-spotify" target='_blank'>
-                            <img src="./imagens/projetos/spotify.png" alt="projetoSpotify" />
-                        </a>
-                        <p>
-                            Recriando página inicial do Spotify por meio do HTML, CSS e JavaScript.
-                        </p>
-                    </div>
+                    
                 </div>
                 <div className="segundaDiv">
                     <div className="segundaDiv1_1">
@@ -48,7 +50,16 @@ const Projetos = () => {
                             Obs.: no campo imagem digite, por exemplo, a URL do GitHub seguida de (.png), dessa forma ira aparecer a imagem da foto do perfil do usuário do GitHub.
                         </p>
                     </div>
+                    <div className="primeiraDiv1_2">
+                        <a href="https://github.com/joaodedeusrsfilho/clone-spotify" target='_blank'>
+                            <img src="./imagens/projetos/spotify.png" alt="projetoSpotify" />
+                        </a>
+                        <p>
+                            Recriando página inicial do Spotify por meio do HTML, CSS e JavaScript.
+                        </p>
+                    </div>
                     <div className="segundaDiv1_2">
+                        
                         <a href="https://github.com/joaodedeusrsfilho/calculadora" target='_blank'>
                             <img src="./imagens/projetos/calculadora.png" alt="projetoSpotify" />
                         </a>
