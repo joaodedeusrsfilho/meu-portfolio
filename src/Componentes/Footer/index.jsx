@@ -18,14 +18,7 @@ const Footer = () => {
                     <a href='https://linkedin.com/in/joaodedeusrsfilho' target='_blank'>
                         <FaLinkedin />
                     </a>
-                    <a href='https://www.youtube.com/@joaodedeus_dev' target='_blank'>
-                        <IoLogoYoutube className='youtube' />
-                    </a>
-
-                    <a href="https://instagram.com/joaodedeus_dev" target='_blank'><FaInstagram /></a>
-
-                    <a href="https://www.tiktok.com/@joaodedeus_dev" target='_blank'><FaTiktok /></a>
-
+                    
                     <a href="mailto:joaodedeusrsfilho@gmail.com">
                         <MdEmail className='email' />
                     </a>
